@@ -1,0 +1,58 @@
+html {
+    color: #cdeb58;
+    background-color: #120f19;
+    padding: 5%;
+}
+
+.align-right {
+    text-align: right;
+}
+
+a {
+    color: #69dbcc;
+}
+
+a:visited {
+    color: #cdeb58;
+}
+
+a:hover {
+    background-color: #485e3d;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    margin: 0 auto;
+}
+
+header {
+    
+}
+
+h1 {
+    
+}
+
+h2 {
+    
+}
+
+button {
+    background: #0d0f18;
+    color: #69dbcc;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #872929;
+    color: #69dbcc;
+}
+
+ul {
+
+}
